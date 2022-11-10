@@ -24,7 +24,7 @@ The data used in this analysis was from the datasets provided in the folder `zip
 
 ## Deliverables
 
-Throughout the analyses, the question I attempted to answer were:
+Throughout the analyses, the questions I attempted to answer were:
 - Which movies were the most profitable?
 - Which genres are the most favored/ watched/ reviewed?
 - Do higher order actors affect the movie likeability?
